@@ -1,0 +1,56 @@
+{
+  "en": {
+    "path": "/dummy-data",
+    "metatadata": {
+      "title": "Dummy Data",
+      "description": "Dummy data description here"
+    },
+    "sections": [
+      {
+        "type": "Hero",
+        "props": {
+          "tagline": "Feature Name",
+          "title": "High Level Benefit of this Feature max of 3–4 lines",
+          "description": "Mauris tempor purus lacus, sit amet condi mentum nulla iaculis eget. Mauris et semper purus. Nunc ultrices pellentesque est, vitae faucibus nib.",
+          "placeholder": "Your email",
+          "cta": "Get Started",
+          "image": "https://via.placeholder.com/592x592/484848&text=%20"
+        }
+      },
+      {
+        "type": "Columns",
+        "props": {
+          "columns": [
+            {
+              "title": "Lorem ipsum dolor sit amet consectetur ",
+              "description": "Mauris tempor purus lacus, sit amet condimentum nulla iaculis eget. Mauris et semper purus. Nunc ultrices pellentesque est, vitae faucibus nib.",
+              "cta": "Learn More"
+            },
+            {
+              "title": "Maecenas id velit volut, vulputate estest",
+              "description": "Mauris tempor purus lacus, sit amet condimentum nulla iaculis eget. Mauris et semper purus. Nunc ultrices pellentesque est, vitae faucibus nib.",
+              "cta": "Learn More"
+            }
+          ]
+        }
+      },
+      {
+        "type": "Columns",
+        "props": {
+          "columns": [
+            {
+              "title": "Lorem ipsum dolor sit amet consectetur ",
+              "description": "Mauris tempor purus lacus, sit amet condimentum nulla iaculis eget. Mauris et semper purus. Nunc ultrices pellentesque est, vitae faucibus nib.",
+              "cta": "Learn More"
+            },
+            {
+              "title": "Maecenas id velit volut, vulputate estest",
+              "description": "Mauris tempor purus lacus, sit amet condimentum nulla iaculis eget. Mauris et semper purus. Nunc ultrices pellentesque est, vitae faucibus nib.",
+              "cta": "Learn More"
+            }
+          ]
+        }
+      }
+    ]
+  }
+}
