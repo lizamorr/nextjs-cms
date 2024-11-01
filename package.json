@@ -19,8 +19,8 @@
     "test": "jest --watch"
   },
   "engines": {
-    "node": "^18.20.4",
-    "npm": "6.13.4"
+    "node": "22.11.0",
+    "npm": "10.9.0"
   },
   "dependencies": {
     "babel": "^6.23.0",
