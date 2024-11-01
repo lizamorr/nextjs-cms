@@ -11,3 +11,6 @@ Technology Stack:
 To run locally:
 - Install proper modules (next, yarn, react, react-dom)
 - Run `yarn dev`
+
+To view through Vercel:
+https://ext-pme-liza.vercel.app/
